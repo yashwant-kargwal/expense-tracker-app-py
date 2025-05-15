@@ -13,6 +13,9 @@ This is a terminal-based Expense Tracker application built with Python. It helps
 ### 🚀 Run the App
 Just run the Python file and follow the on-screen menu.
 
+### Download the App
+Download app.exe file to run this Python file even without download Python in your Sytem(Window, Mac, Linux)
+
 ### 📂 Features:
 - Add New Expense
 - Show All Expenses
